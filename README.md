@@ -1,5 +1,3 @@
-
-[README.md](https://github.com/user-attachments/files/33925911/README.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:001a0d&height=140&section=header&text=STARK%20TERMINAL%20ONLINE&fontSize=34&fontColor=00ff41&animation=fadeIn&fontAlignY=38" width="100%" />
@@ -142,5 +140,3 @@ MOTTO="Document everything. Writeups > badges."
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0d,100:00ff41&height=90&section=footer" width="100%" />
 
 </div>
-
-
